@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb73dcf1-004a-405d-8f9d-f0ee82ad21b3" name="Default" comment="" />
+    <ignored path="rdkoneledu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="rdkoneledu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="InstallController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickApps/Controller/InstallController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="173" column="0" selection-start="4762" selection-end="4762" vertical-scroll-proportion="-50.346153" vertical-offset="0" max-vertical-offset="1768">
+              <folding>
+                <element signature="e#495#767#0" expanded="false" />
+                <element signature="n#beforeFilter#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#license#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#server_test#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#database#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#user_account#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#finish#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#__writeDatabaseFile#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#__removeDatabaseFile#0;n#InstallController#0;n#!!top" expanded="false" />
+                <element signature="n#__stepSuccess#0;n#InstallController#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstallerComponent.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickApps/Controller/Component/InstallerComponent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="476" column="0" selection-start="16160" selection-end="16160" vertical-scroll-proportion="-209.42308" vertical-offset="1525" max-vertical-offset="33354">
+              <folding>
+                <element signature="e#7729#10629#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleExtensionModuleHookComponent.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="21" selection-start="236" selection-end="236" vertical-scroll-proportion="0.23053892" vertical-offset="76" max-vertical-offset="782">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleExtensionModuleHookBehavior.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="-4.269231" vertical-offset="212" max-vertical-offset="1173">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RolesController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/Controller/RolesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="35" selection-start="354" selection-end="354" vertical-scroll-proportion="-5.5384617" vertical-offset="111" max-vertical-offset="748">
+              <folding>
+                <element signature="n#admin_index#0;n#RolesController#0;n#!!top" expanded="false" />
+                <element signature="n#admin_delete#0;n#RolesController#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_edit.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/View/Roles/admin_edit.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/View/User/register.ctp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="442">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Config/database.php" />
+        <option value="$PROJECT_DIR$/Config/routes.php" />
+        <option value="$PROJECT_DIR$/QuickApps/Controller/InstallController.php" />
+        <option value="$PROJECT_DIR$/QuickApps/Cake/Model/Datasource/DboSource.php" />
+        <option value="$PROJECT_DIR$/QuickApps/Controller/AppController.php" />
+        <option value="$PROJECT_DIR$/Config/core.php" />
+        <option value="$PROJECT_DIR$/QuickApps/Config/bootstrap.php" />
+        <option value="$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php" />
+        <option value="$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php" />
+        <option value="$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/InstallComponent.php" />
+        <option value="$PROJECT_DIR$/Modules/RoleExtensionModule_1/Controller/Component/InstallComponent.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="127.0.0.1" name="apache" port="8080" />
+      <server host="localhost" name="localhost" port="8080" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="C:\Users\Mustapha\xampp\htdocs\rdkoneledu\QuickApps\Cake" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1438" />
+    <option name="height" value="858" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Roles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="View" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuickApps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoleExtensionModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoleExtensionModule1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoleExtensionModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoleExtensionModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Behavior" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdkoneledu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RoleExtensionModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="C:/msysgit/msysgit/git/git.exe" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig" serverName="apache" serverId="3b170c56-45b7-47f0-9250-7e529c6f5764">
+    <servers>
+      <server id="3b170c56-45b7-47f0-9250-7e529c6f5764">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="rdkoneledu" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="4bf91252-c24e-4ee7-8f6e-5ebbe5908c8f">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager" selected="PHPUnit on Server.rdkoneledu on apache">
+    <configuration default="false" name="rdkoneledu on apache" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" temporary="true" scope="Directory" path="$PROJECT_DIR$" server_id="3b170c56-45b7-47f0-9250-7e529c6f5764" server_name="apache">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpUnitRemoteDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitRemoteDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="3b170c56-45b7-47f0-9250-7e529c6f5764" server_name="apache">
+      <method />
+    </configuration>
+    <configuration default="false" name="rdkoneledu" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="apache" start_url="/rdkoneledu">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.rdkoneledu" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit on Server.rdkoneledu on apache" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit on Server.rdkoneledu on apache" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb73dcf1-004a-405d-8f9d-f0ee82ad21b3" name="Default" comment="" />
+      <created>1393554670968</created>
+      <updated>1393554670968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1438" height="858" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2957849" sideWeight="0.5814286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41857144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41857144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/QuickApps/Plugin/User/View/Roles/admin_index.ctp</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/QuickApps/Plugin/User/View/Roles/admin_index.ctp</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/QuickApps/Controller/AppController.php</url>
+          <line>200</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/QuickApps/Controller/Component/InstallerComponent.php</url>
+          <line>463</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>29</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>34</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>49</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>54</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>59</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;role&quot; || $model-&gt;name == &quot;user&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php</url>
+          <line>11</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php</url>
+          <line>36</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/QuickApps/Plugin/User/Controller/RolesController.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <condition>$model-&gt;name == &quot;Role&quot;</condition>
+          <url>file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php</url>
+          <line>14</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/Model/UserAppModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="242" selection-end="242" vertical-scroll-proportion="0.5615616" vertical-offset="0" max-vertical-offset="333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/Model/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3063063" vertical-offset="102" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="7" selection-start="2049" selection-end="2064" vertical-scroll-proportion="0.2042042" vertical-offset="612" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Cake/Model/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1008" column="0" selection-start="19007" selection-end="31885" vertical-scroll-proportion="-66.42522" vertical-offset="36812" max-vertical-offset="54672">
+          <folding>
+            <element signature="e#13424#16497#0" expanded="false" />
+            <element signature="e#16539#16877#0" expanded="false" />
+            <element signature="e#16903#17001#0" expanded="false" />
+            <element signature="e#17030#17098#0" expanded="false" />
+            <element signature="e#17340#17553#0" expanded="false" />
+            <element signature="e#17579#17865#0" expanded="false" />
+            <element signature="e#17890#18301#0" expanded="false" />
+            <element signature="e#19007#19118#0" expanded="false" />
+            <element signature="e#19244#19342#0" expanded="false" />
+            <element signature="e#20470#21778#0" expanded="false" />
+            <element signature="e#28330#29055#0" expanded="false" />
+            <element signature="e#31885#32363#0" expanded="false" />
+            <element signature="e#55342#55462#0" expanded="false" />
+            <element signature="e#55632#55833#0" expanded="false" />
+            <element signature="e#59808#60145#0" expanded="false" />
+            <element signature="e#63063#64830#0" expanded="false" />
+            <element signature="e#65299#66377#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Config/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="273" column="24" selection-start="9934" selection-end="9934" vertical-scroll-proportion="4.8502827" vertical-offset="0" max-vertical-offset="1904" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/System/Lib/QuickApps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="0" selection-start="0" selection-end="5729" vertical-scroll-proportion="0.0" vertical-offset="3094" max-vertical-offset="17272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/RoleExtensionModule1/Controller/Component/InstallComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Controller/InstallController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="0" selection-start="4762" selection-end="4762" vertical-scroll-proportion="-50.346153" vertical-offset="0" max-vertical-offset="1768">
+          <folding>
+            <element signature="e#495#767#0" expanded="false" />
+            <element signature="n#beforeFilter#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#license#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#server_test#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#database#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#user_account#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#finish#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#__writeDatabaseFile#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#__removeDatabaseFile#0;n#InstallController#0;n#!!top" expanded="false" />
+            <element signature="n#__stepSuccess#0;n#InstallController#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Controller/Component/InstallerComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="476" column="0" selection-start="16160" selection-end="16160" vertical-scroll-proportion="-209.42308" vertical-offset="1525" max-vertical-offset="33354">
+          <folding>
+            <element signature="e#7729#10629#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/InstallComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="0.33233532" vertical-offset="110" max-vertical-offset="3485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/RoleExtensionModule/Model/Behavior/RoleExtensionModuleHookBehavior.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="572" selection-end="572" vertical-scroll-proportion="-4.269231" vertical-offset="212" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/Controller/RolesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="35" selection-start="354" selection-end="354" vertical-scroll-proportion="-5.5384617" vertical-offset="111" max-vertical-offset="748">
+          <folding>
+            <element signature="n#admin_index#0;n#RolesController#0;n#!!top" expanded="false" />
+            <element signature="n#admin_delete#0;n#RolesController#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/View/Roles/admin_edit.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickApps/Plugin/User/View/User/register.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/RoleExtensionModule/Controller/Component/RoleExtensionModuleHookComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="236" selection-end="236" vertical-scroll-proportion="0.23053892" vertical-offset="76" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
